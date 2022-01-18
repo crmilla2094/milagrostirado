@@ -292,6 +292,10 @@ padding: 10px 0px 10px 0px;
 	height: 18px;
 }
 
+.item img{
+	width: 300px !important;
+}
+
 }
 
 @media (max-width: 650px){
