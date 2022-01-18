@@ -141,11 +141,7 @@ padding: 10px 0px 10px 0px;
 	font-family: LoraItalic;
 }
 
-#fondo-banner{
-	background-image: url(../img/aytbanner.jpg);
-	background-position: center;
-	background-size: cover;
-}
+
 
 #banner-redes{
 	width: 40px;
